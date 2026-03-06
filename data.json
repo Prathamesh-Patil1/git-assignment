@@ -1,5 +1,7 @@
 [
-    { "id": 1, "name": "Prathamesh" },
-    { "id": 2, "name": "Sneha" }
-  ]
+  { "id": 1, "name": "Prathamesh" },
+  { "id": 2, "name": "Sneha" },
+  { "id": 3, "name": "Rahul" },
+  { "id": 4, "name": "Anita" }
+]
   
