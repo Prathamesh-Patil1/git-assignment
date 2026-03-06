@@ -1,5 +1,7 @@
-[
-    { "id": 1, "name": "Prathamesh" },
-    { "id": 2, "name": "Sneha" }
-  ]
+{
+  "name": "Prathamesh Patil",
+  "course": "Cloud Computing",
+  "project": "Git Assignment",
+  "status": "updated from prathamesh_new branch"
+}
   
